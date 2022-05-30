@@ -1,0 +1,5 @@
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\Model\bin\Debug\Model.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\Model\bin\Debug\Model.pdb
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\Model\obj\Debug\Model.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\Model\obj\Debug\Model.pdb
