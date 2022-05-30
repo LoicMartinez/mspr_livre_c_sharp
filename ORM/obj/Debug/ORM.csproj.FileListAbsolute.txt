@@ -1,0 +1,16 @@
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\ORM.dll.config
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\ORM.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\ORM.pdb
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\EntityFramework.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\Model.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\Model.pdb
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\EntityFramework.xml
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\obj\Debug\ORM.csproj.AssemblyReference.cache
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\obj\Debug\ORM.csproj.CopyComplete
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\obj\Debug\ORM.dll
+C:\Users\Loïc\Documents\Xefi\Cours\Architecture Client serveur\mspr\ORM\obj\Debug\ORM.pdb
